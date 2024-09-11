@@ -1,0 +1,36 @@
+body {
+    background-color: #110708;
+    color: #6b446b;
+    font-family: "Inconsolata", monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button {
+    background-color: #9b70a4;
+    color: #6b446b;
+    font-family: "Inconsolata", monospace;
+}
+
+.passo {
+    display: none;
+
+}
+.passo.ativo {
+    display: block;
+
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+
+}
+
+img {
+    max-width: 90%;
+}
